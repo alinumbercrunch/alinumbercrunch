@@ -1,7 +1,6 @@
 # 💫About Me :
 👋 Hi there! I'm Ali <br/>
-🔭 Freshly LeWagon Tokyo Bootcamp graduate (September 2024). <br/>
-🌱 Software engineer sharing my journey and learnings. <br/>
+🌱 Software engineer & consultant, sharing my journey and learnings. <br/>
 👯 I’m looking to collaborate on open-source projects related to web development. <br/>
 💬 Ask me about my experience in recruitment consulting and software development. <br/>
 😄 Pronouns: He/Him <br/>
