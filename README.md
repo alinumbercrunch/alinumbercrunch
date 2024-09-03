@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on open-source projects related to web development. <br/>
 💬 Ask me about my experience in recruitment consulting and software development. <br/>
 😄 Pronouns: He/Him <br/>
-⚡ Fun fact: I enjoy cooking, especially Tagines, https://en.wikipedia.org/wiki/Tajine <br/>
+⚡ Fun fact: I enjoy cooking, especially Tajines, https://en.wikipedia.org/wiki/Tajine <br/>
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-h-a22178109/) 
