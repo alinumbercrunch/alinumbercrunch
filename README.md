@@ -2,7 +2,7 @@
 👋 Hi there! I'm Ali <br/>
 🌱 Software engineer & consultant, sharing my journey and learnings. <br/>
 👯 I’m looking to collaborate on open-source projects related to web development. <br/>
-💬 Ask me about my experience in recruitment consulting and software development. <br/>
+💬 Ask me about my experience in proejct management/consulting and software development. <br/>
 ⚡ Fun fact: I enjoy cooking, especially Tajines, https://en.wikipedia.org/wiki/Tajine <br/>
 
 # 📂 Portfolio
