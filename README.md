@@ -5,17 +5,6 @@
 💬 Ask me about my experience in proejct management/consulting and software development/ プロジェクト管理/コンサルティングおよびソフトウェア開発に関する私の経験について聞いてください。 <br/>
 ⚡ Fun fact: I enjoy cooking, especially Tajines, https://en.wikipedia.org/wiki/Tajine/ 面白い事実：料理が好きで、特にタジン料理を楽しんでいます。https://en.wikipedia.org/wiki/Tajine <br/>
 
-💫自己紹介
-👋 こんにちは！アリです <br/>
-
-🌱 ソフトウェアエンジニア兼コンサルタントとして、私の旅と学びを共有しています。<br/>
-
-👯 ウェブ開発に関連するオープンソースプロジェクトでのコラボレーションを探しています。<br/>
-
-💬 プロジェクト管理/コンサルティングおよびソフトウェア開発に関する私の経験について聞いてください。<br/>
-
-⚡ 面白い事実：料理が好きで、特にタジン料理を楽しんでいます。https://en.wikipedia.org/wiki/Tajine <br/>
-
 # 📂 Portfolio
 Check out my portfolio [[here](https://main--ali-haddi.netlify.app/)]
 
