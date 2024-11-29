@@ -13,8 +13,8 @@
 ⚡ 面白い事実：料理が好きで、特にタジン料理を楽しんでいます。https://en.wikipedia.org/wiki/Tajine <br/>
 
 # 📂 Portfolio
-Check out my portfolio [[here](https://main--ali-haddi.netlify.app/)]
-私のポートフォリオはこちら [[こちら](https://main--ali-haddi.netlify.app/)]
+Check out my portfolio [[here](https://mysheepportfolio.com/)]
+私のポートフォリオはこちら [[こちら](https://mysheepportfolio.com/)]
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-h-a22178109/) 
